@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkateshyekula
-- 👀 I’m interested in learning SharePoint Framework and Angular 
-- 🌱 I’m currently learning SharePoint Framework and Angular 
+- 👀 I’m interested in learning SharePoint Framework and React 
+- 🌱 I’m currently learning SharePoint Framework and React 
 - 💞️ I’m looking to collaborate on Github
 
 <!---
